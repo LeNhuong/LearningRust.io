@@ -1,3 +1,8 @@
 fn main() {
-    println!("Hello, world!");
+    let one = 1;
+    if one > 0{
+        println!("True");
+    }else{
+        println!("Flase");
+    }
 }
